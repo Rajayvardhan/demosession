@@ -1,0 +1,38 @@
+.form_img h2{
+    text-align: center;
+    font-size: 53px;
+}
+.form-inputRE{
+    font-size: 19px;
+    line-height: 1;
+    font-weight: 600;
+    /* color: #fff; */
+    padding-left: 24px;
+    width: 100%;
+    outline: none;
+    display: inline-block;
+    height: 45px;
+    border: px solid #2d2d2d;
+    border-radius: 6px;
+}
+.create_account{
+    color: #000000;
+    background-color: rgb(212 212 212 / 90%);
+    border-color: rgb(212 212 212 / 90%);
+    border-radius: 3px;
+    font-size: 19px;
+    padding: 8px 22px;
+    font-weight: 500;
+    margin-top: 26px;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.main_part_form{
+    box-shadow: 2px 1px 11px 1px;
+    padding: 10px 10px 44px 10px;
+    position: relative;
+    left: 150px;
+    margin-top: 90px;
+    border-radius: 10px;
+}
